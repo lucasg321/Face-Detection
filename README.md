@@ -1,7 +1,7 @@
 # Face-Detection
 Made using EmguCV (an OpenCV wrapper for .NET) and C#
 
-<img src="https://i.gyazo.com/31f06b17d040f6b02090a7e88e11fded.jpg" width="620" height="400" />
+<img src="https://i.gyazo.com/31f06b17d040f6b02090a7e88e11fded.jpg" width="620" height="375" />
 
 ### Description: 
 The Face Detection application receives video feed from a webcam and uses OpenCV to detect faces in the frames.
